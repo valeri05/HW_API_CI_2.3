@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cwfa5v15x643alcj?svg=true)](https://ci.appveyor.com/project/valeri05/hw-api-ci-gkpay)
